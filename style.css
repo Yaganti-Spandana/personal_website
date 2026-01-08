@@ -1,0 +1,102 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+}
+
+body {
+  background-color: burlywood;
+  color: #333;
+  line-height: 1.6;
+}
+
+/* HEADER */
+header {
+  margin: 10px 50px;
+  background-color: chocolate;
+  border-radius: 30px;
+  color: white;
+  padding: 15px 30px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+nav a {
+  color: white;
+  margin-left: 15px;
+  text-decoration: none;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+/* HERO */
+.hero {
+  background-color: cadetblue;
+  color: white;
+  padding: 60px 30px;
+  text-align: center;
+  margin-top: 20px;
+  border-radius: 50px;
+}
+
+/* SECTIONS */
+section {
+  padding: 40px 30px;
+  max-width: 800px;
+  margin: auto;
+}
+
+section h2 {
+  margin-bottom: 15px;
+}
+
+/* PROJECT LIST */
+ul {
+  list-style: square;
+  margin-left: 20px;
+}
+
+/* CONTACT FORM */
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+label {
+  display: flex;
+  flex-direction: column;
+  font-size: 14px;
+}
+
+input,
+textarea {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+button {
+  background: #4f46e5;
+  color: white;
+  border: none;
+  padding: 12px;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+button:hover {
+  background: #4338ca;
+}
+
+/* FOOTER */
+footer {
+  text-align: center;
+  padding: 20px;
+  background: #ddd;
+  margin-top: 40px;
+}
