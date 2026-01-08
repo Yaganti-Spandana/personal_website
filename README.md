@@ -53,3 +53,40 @@ cd personal-website
 
 
 3. Open index.html in your browser.
+
+🎯 Learning Outcomes
+
+Understanding HTML page structure
+
+Styling with CSS
+
+Building a simple layout
+
+Creating forms without JavaScript
+
+💡 Future Improvements
+
+Add dark mode
+
+Make the website fully responsive
+
+Add animations using CSS
+
+Add JavaScript for form validation
+
+Create separate About and Contact pages
+
+🤝 Contributing
+
+This project is beginner-friendly.
+Feel free to fork the repository and improve it.
+
+📄 License
+
+This project is open source and available under the MIT License.
+
+👤 Author
+
+Your Name
+
+GitHub: https://github.com/Yaganti-Spandana
