@@ -35,8 +35,8 @@ personal-website/
 
 ## 📸 Preview
 
-(<img width="1844" height="839" alt="Screenshot 2026-01-08 144354" src="https://github.com/user-attachments/assets/2d2695ed-8368-4d76-a21e-0957feee7ae3" />
-)
+<img width="1844" height="839" alt="Screenshot 2026-01-08 144354" src="https://github.com/user-attachments/assets/2d2695ed-8368-4d76-a21e-0957feee7ae3" />
+
 
 
 ---
