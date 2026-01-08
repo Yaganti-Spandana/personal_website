@@ -47,3 +47,9 @@ personal-website/
    ```bash
    https://github.com/Yaganti-Spandana/personal_website.git
 
+2. Open the project folder:
+
+cd personal-website
+
+
+3. Open index.html in your browser.
